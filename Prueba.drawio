@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T06:41:50.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="LmPuj5-IcD9Olin3Yz6Y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T08:45:12.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cgYMhnalt5aRSGjZHgmJ" version="22.0.4" type="github">
   <diagram name="Página-1" id="Axrmi0y_C3KUg_YlDvho">
-    <mxGraphModel>
+    <mxGraphModel dx="500" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AwqIPHi2zIPsZ3ZgcxI2-1" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AwqIPHi2zIPsZ3ZgcxI2-2" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AwqIPHi2zIPsZ3ZgcxI2-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AwqIPHi2zIPsZ3ZgcxI2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="280" as="sourcePoint" />
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwqIPHi2zIPsZ3ZgcxI2-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AwqIPHi2zIPsZ3ZgcxI2-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AwqIPHi2zIPsZ3ZgcxI2-9">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AwqIPHi2zIPsZ3ZgcxI2-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AwqIPHi2zIPsZ3ZgcxI2-9">
+          <mxGeometry x="30" y="50" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
